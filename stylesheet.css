@@ -7,7 +7,7 @@ html {
 .container1 {
   width: 1440px;
   height: 100px;
-  box-shadow: 0 8px 6px -8px grey;
+  box-shadow: 0 8px 6px -9px grey;
     }
 
 ul {
@@ -27,4 +27,29 @@ li {
 {
    margin-left: 10%;
    max-width: 100px;
+}
+
+h1
+ {
+   text-align: center;
+   color: black;
+ }
+
+ p {
+   text-align: center;
+   color: grey;
+ }
+
+img {
+  max-width: 70%;
+  border-radius: 10px;
+}
+
+ .hero {
+   text-align: center;
+
+  }
+
+nav {
+  position: relative;
 }
