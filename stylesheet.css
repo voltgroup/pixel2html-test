@@ -53,3 +53,25 @@ img {
 nav {
   position: relative;
 }
+
+.box1 #graph {
+    text-align:left;
+    margin-left: 15%;
+    vertical-align:middle;
+
+    }
+
+span {
+  font-size: 12px;
+}
+
+#data {
+    color: black;
+}
+
+.texto1 {
+      line-height: .1px;
+      margin-left: 23%;
+      vertical-align:text-top;
+      font-size: 12px;
+}
