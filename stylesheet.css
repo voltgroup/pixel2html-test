@@ -1,0 +1,30 @@
+.logo
+    {
+        color: grey;
+        font-family: roboto;
+          display: inline;
+    }
+
+ul {
+  list-style-type: none;
+   margin: 0;
+   padding: 0;
+
+}
+
+li {
+  display: inline;
+  padding: 2%;
+
+}
+
+.logo
+{
+   margin-left: 10%;
+}
+
+.container1 {
+  width: 1440px;
+  height: 100px;
+  box-shadow: 0 8px 6px -10px grey;
+    }
