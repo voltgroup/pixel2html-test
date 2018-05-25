@@ -1,8 +1,13 @@
-.logo
-    {
-        color: grey;
-        font-family: roboto;
-          display: inline;
+
+html {
+    font-family: roboto;
+    color: grey;
+}
+
+.container1 {
+  width: 1440px;
+  height: 100px;
+  box-shadow: 0 8px 6px -8px grey;
     }
 
 ul {
@@ -21,10 +26,5 @@ li {
 .logo
 {
    margin-left: 10%;
+   max-width: 100px;
 }
-
-.container1 {
-  width: 1440px;
-  height: 100px;
-  box-shadow: 0 8px 6px -10px grey;
-    }
