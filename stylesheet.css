@@ -67,11 +67,14 @@ span {
 
 #data {
     color: black;
+    vertical-align:text-top;
+
 }
 
 .texto1 {
       line-height: .1px;
-      margin-left: 23%;
-      vertical-align:text-top;
+      margin-left: 23.5%;
+      vertical-align:top;
       font-size: 12px;
+      max-width: 50%%
 }
